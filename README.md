@@ -1,2 +1,1 @@
-# Flask-skel
-Flask skeleton with HTML5 template 
+# Flask skeleton with HTML5 template to init new web projects
