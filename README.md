@@ -1,3 +1,5 @@
+<a href="https://blog.xavigonzalez.net/desplega-webapp-en-python-con-flask-y-heroku-en-5-minutos"><img src="https://blog.xavigonzalez.net/wp-content/uploads/2022/08/flask.jpg"></a>
+
 # Flask skeleton with HTML5 template to init new web projects
 
 You can see more information about deploying a web project quickly with Flask and Heroku on my blog:
