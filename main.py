@@ -34,5 +34,5 @@ def elements():
 
 
 # app.run() ##Replaced with below code to run it using waitress
-serve(app, host='127.0.0.1', port=80)  
+#serve(app, host='127.0.0.1', port=80)  
     
